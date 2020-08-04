@@ -1,4 +1,12 @@
-### Hi there 👋
+### Chanho Lee
+
+Hi there👋 Welcome to my Github profile!  
+I'm a **Ungraduate Student** 👨🏽‍💼
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddygood)](https://github.com/teddygood)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibear6954@gmail.com)](mailto:ibear6954@gmail.com)
+
+[![teddygood's github stats](https://github-readme-stats.vercel.app/api?username=teddygood&show_icons=true&hide_border=true)](https://github.com/teddygood)
 
 <!--
 **teddygood/teddygood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
