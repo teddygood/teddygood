@@ -1,7 +1,5 @@
 ## Hi there👋 I'm Chanho Lee
 
----
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddygood)](https://github.com/teddygood)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibear6954@gmail.com)](mailto:ibear6954@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)](https://www.linkedin.com/in/chanho-lee-7aab681a2/)
