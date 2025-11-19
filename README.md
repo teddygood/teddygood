@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Chanho Lee
 
-A software engineer who loves learning and applying new tech to real projects. 
+A software engineer who loves learning and applying new tech to real projects.
 
 Interested in open source and machine learning. Enjoy analyzing and fixing complex issues to help projects succeed.
 
@@ -14,9 +14,9 @@ Interested in open source and machine learning. Enjoy analyzing and fixing compl
 - Cloud Support Engineer Intern at Amazon Web Services (AWS) (2024.12 ~ 2025.06)
 
 ## Open Source Contributions
-- pyodide/pyodide-build #223 - added `build-recipes clean` helper to purge recipe artifacts with optional dist cleanup + CLI tests.
-- pyodide/pyodide-build #254 - exposed recipe cleanup via `pyodide clean recipes` Typer CLI with flags, defaults, and coverage.
-- pyodide/pyodide #5880 - added `test-simd` package to validate WASM SIMD/SSE/AVX intrinsics via Pyodide load + pytest.
-- pyodide/pyodide #5960 - built SIMD-enabled OpenBLAS variants plus benchmarks, enabling Pyodide SciPy BLAS ops to use WASM SIMD.
-- aquasecurity/trivy #9458 - improved RHEL-based image OS detection via `os-release` parsing with added fixtures/tests.
-- llvm/llvm-project #166082 - NFC rename aligning `TypeSourceInfo` vars from DI to TSI for clarity/consistency in Clang.
+- [pyodide/pyodide-build](https://github.com/pyodide/pyodide-build) ([#223](https://github.com/pyodide/pyodide-build/pull/223)) — added CLI helper to purge recipe artifacts.
+- [pyodide/pyodide-build](https://github.com/pyodide/pyodide-build) ([#254](https://github.com/pyodide/pyodide-build/pull/254)) — exposed recipe cleanup via CLI entrypoint.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) ([#5880](https://github.com/pyodide/pyodide/pull/5880)) — validated WASM SIMD/SSE/AVX intrinsics for Pyodide.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) ([#5960](https://github.com/pyodide/pyodide/pull/5960)) — built SIMD-enabled OpenBLAS enabling Pyodide SciPy BLAS ops to use WASM SIMD, plus benchmarks.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([#9458](https://github.com/aquasecurity/trivy/pull/9458)) — improved RHEL OS release detection.
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) ([#166082](https://github.com/llvm/llvm-project/pull/166082)) — renamed DI to TSI for clarity in Clang.
