@@ -1,23 +1,22 @@
 ## Hi there👋 I'm Chanho Lee
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddygood)](https://github.com/teddygood)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibear6954@gmail.com)](mailto:ibear6954@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)](https://www.linkedin.com/in/chanho-lee-7aab681a2/)
+A software engineer who loves learning and applying new tech to real projects. 
 
-[![Teddygood's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddygood&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Interested in open source and machine learning. Enjoy analyzing and fixing complex issues to help projects succeed.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddygood&layout=compact)](https://github.com/teddygood/teddygood)  -->
-<!--
-**teddygood/teddygood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.S. Computer Engineering at Kwangwoon University (2018.03 ~ 2025.08)
+- Blog: https://teddygood.github.io/
+- LinkedIn: https://www.linkedin.com/in/teddygood/
+- Email: ibear6954@gmail.com
 
-Here are some ideas to get you started:
+## Work Experience
+- Cloud Support Engineer Intern at Amazon Web Services (AWS) (2024.12 ~ 2025.06)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source Contributions
+- pyodide/pyodide-build #223 - added `build-recipes clean` helper to purge recipe artifacts with optional dist cleanup + CLI tests.
+- pyodide/pyodide-build #254 - exposed recipe cleanup via `pyodide clean recipes` Typer CLI with flags, defaults, and coverage.
+- pyodide/pyodide #5880 - added `test-simd` package to validate WASM SIMD/SSE/AVX intrinsics via Pyodide load + pytest.
+- pyodide/pyodide #5960 - built SIMD-enabled OpenBLAS variants plus benchmarks, enabling Pyodide SciPy BLAS ops to use WASM SIMD.
+- aquasecurity/trivy #9458 - improved RHEL-based image OS detection via `os-release` parsing with added fixtures/tests.
+- llvm/llvm-project #166082 - NFC rename aligning `TypeSourceInfo` vars from DI to TSI for clarity/consistency in Clang.
