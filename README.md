@@ -12,7 +12,7 @@ Interested in open source and machine learning. Enjoy analyzing and fixing compl
 
 ## Work Experience
 - Cloud Support Engineer Intern at Amazon Web Services (AWS) (2024.12 ~ 2025.06)
-- **Where to next?** Maybe your team! (Open to Backend / Systems / Cloud roles 🚀)
+- **Where to next?** Maybe your team! (Open to Backend / Systems / Cloud roles)
 
 - [pyodide/pyodide-build](https://github.com/pyodide/pyodide-build) ([#223](https://github.com/pyodide/pyodide-build/pull/223)) — added CLI helper to purge recipe artifacts.
 - [pyodide/pyodide-build](https://github.com/pyodide/pyodide-build) ([#254](https://github.com/pyodide/pyodide-build/pull/254)) — exposed recipe cleanup via CLI entrypoint.
