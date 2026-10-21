@@ -12,4 +12,4 @@ Interested in open source and machine learning. Enjoy analyzing and fixing compl
 
 ## Work Experience
 - Cloud Support Engineer Intern at Amazon Web Services (AWS) (2024.12 ~ 2025.06)
-- **Where to next?** Maybe your team! (Open to Backend / Systems / Cloud roles)
+- **Where to next?** Maybe your team! (Open to Web / Systems / Cloud / Machine Learning roles)
